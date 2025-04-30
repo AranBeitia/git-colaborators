@@ -1,3 +1,3 @@
-texto patata 
+texto patatina
 
 nuevo desarrollo
